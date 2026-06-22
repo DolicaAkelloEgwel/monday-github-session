@@ -1,4 +1,4 @@
 # monday-github-session
 Monday GitHub tutorial.
 
-I am a Gemini.
+I am a Gemini. I like fishing (haven't been in a while though).
